@@ -10,9 +10,6 @@ import Testmonial from "./components/testimonial/Testmonial";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
 function App() {
-  function print() {
-    console.log("Jellp");
-  }
   return (
     <>
       <Header />
