@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
-import aboutImg from "../../assets/about.jpg";
-import CV from "../../assets/John-Cv.pdf";
+import aboutImg from "../../assets/Danish-2.jpg";
+import CV from "../../assets/Resume.pdf";
 import Info from "./Info";
 
 function About() {
@@ -15,9 +15,9 @@ function About() {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Frontend Developer, I create web pages with UI / UX user interfce, I
-            have years of experience and many clinets are happy with the project
-            carried out.
+            Full Stack Developer, I create web pages with UI / UX user interfce
+            and also create Web APIs for the Backend data Fetch.I have 5 month
+            of Industrial experience.
           </p>
           <a
             download=""

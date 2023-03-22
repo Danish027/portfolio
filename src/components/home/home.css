@@ -45,15 +45,16 @@
   margin-bottom: 3rem;
 }
 .home__img {
-  background: url(../../assets//profile.jpg);
+  background: url(../../assets//Danish-3.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  box-shadow: inset 0 0 0 9px rgb(255 255 255/30%);
+  box-shadow: inset 0 0 0 9px rgba(0, 0, 0, 0.3);
   justify-self: center;
   order: 1;
-  width: 300px;
-  height: 300px;
+
+  width: 330px;
+  height: 330px;
   animation: profile__animate 8s ease-in-out infinite 1s;
 }
 @keyframes profile__animate {

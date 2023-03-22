@@ -16,7 +16,7 @@ function Services() {
           <div>
             <i className="uil uil-web-grid service__icon"></i>
             <h3 className="services__title">
-              Product <br /> Designer
+              Web Page <br /> Design
             </h3>
             <span className="services__icon" onClick={() => toggleTab(1)}>
               View More
@@ -149,7 +149,7 @@ function Services() {
           <div>
             <i className="uil uil-edit service__icon"></i>
             <h3 className="services__title">
-              Visual <br /> Designer
+              API <br /> Designer
             </h3>
             <span className="services__icon">
               View More
